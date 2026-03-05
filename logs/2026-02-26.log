@@ -1,0 +1,8 @@
+[2026-02-26 23:46:45] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-26 23:47:40] [INFO] [admin] [SupplierController] Tedarikçi eklendi - {"supplier_id": 1, "name": "Hiandco"}
+[2026-02-26 23:47:56] [INFO] [admin] [BrandController] Marka eklendi - {"brand_id": 1, "name": "Bellona"}
+[2026-02-26 23:48:02] [INFO] [admin] [CategoryController] Kategori eklendi - {"category_id": 1, "name": "Ev", "parent_id": null}
+[2026-02-26 23:48:09] [INFO] [admin] [CategoryController] Kategori eklendi - {"category_id": 2, "name": "Mobilya", "parent_id": 1}
+[2026-02-26 23:48:20] [INFO] [admin] [CategoryController] Kategori eklendi - {"category_id": 3, "name": "Sehpa", "parent_id": 2}
+[2026-02-26 23:48:25] [INFO] [admin] [CategoryController] Kategori eklendi - {"category_id": 4, "name": "Berjer", "parent_id": 2}
+[2026-02-26 23:48:57] [INFO] [admin] [VariantTypeController] Varyant değeri eklendi - {"value_id": 3, "type_id": 1, "value": "Mavi"}

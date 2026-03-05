@@ -1,0 +1,73 @@
+[2026-02-24 16:02:07] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-24 16:02:20] [INFO] [admin] [AuthController] Çıkış yapıldı
+[2026-02-24 16:02:24] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-24 16:02:27] [INFO] [admin] [AuthController] Çıkış yapıldı
+[2026-02-24 16:07:10] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-24 16:07:24] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-24 16:14:30] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-24 16:26:53] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-24 16:29:07] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-24 16:29:23] [INFO] [admin] [CategoryController] Kategori eklendi - {"category_id": 1, "name": "Ev", "parent_id": null}
+[2026-02-24 16:29:42] [INFO] [admin] [CategoryController] Kategori eklendi - {"category_id": 2, "name": "Mobilya", "parent_id": 1}
+[2026-02-24 16:30:44] [INFO] [admin] [CategoryController] Kategori eklendi - {"category_id": 3, "name": "Kadın", "parent_id": null}
+[2026-02-24 16:30:54] [INFO] [admin] [CategoryController] Kategori eklendi - {"category_id": 4, "name": "Kadın Giyim", "parent_id": 3}
+[2026-02-24 16:31:30] [INFO] [admin] [CategoryController] Kategori eklendi - {"category_id": 5, "name": "Sehpa", "parent_id": 2}
+[2026-02-24 16:32:37] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-24 16:35:02] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-24 16:35:41] [INFO] [admin] [BrandController] Marka eklendi - {"brand_id": 1, "name": "Hiandco Collective"}
+[2026-02-24 16:35:53] [INFO] [admin] [BrandController] Marka eklendi - {"brand_id": 2, "name": "Hi Atölye"}
+[2026-02-24 16:40:58] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-24 16:42:29] [WARNING] [system] [AuthController] Başarısız giriş - şifre hatalı - {"username": "admin"}
+[2026-02-24 16:42:30] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-24 16:44:23] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-24 16:44:33] [INFO] [admin] [BrandController] Marka güncellendi - {"brand_id": 1, "updated_fields": ["name", "description", "logo_path"]}
+[2026-02-24 16:44:38] [INFO] [admin] [BrandController] Marka güncellendi - {"brand_id": 1, "updated_fields": ["name", "description"]}
+[2026-02-24 16:44:43] [INFO] [admin] [BrandController] Marka güncellendi - {"brand_id": 1, "updated_fields": ["name", "description"]}
+[2026-02-24 16:44:55] [INFO] [admin] [BrandController] Marka güncellendi - {"brand_id": 2, "updated_fields": ["name", "description", "logo_path"]}
+[2026-02-24 16:46:37] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-24 16:46:57] [INFO] [admin] [BrandController] Marka güncellendi - {"brand_id": 2, "updated_fields": ["name", "description", "logo_path"]}
+[2026-02-24 16:48:56] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-24 16:49:05] [INFO] [admin] [BrandController] Marka güncellendi - {"brand_id": 1, "updated_fields": ["name", "description", "logo_path"]}
+[2026-02-24 16:57:44] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-24 17:00:31] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-24 17:01:41] [INFO] [admin] [SupplierController] Tedarikçi eklendi - {"supplier_id": 1, "name": "Hiandco Collective"}
+[2026-02-24 17:11:41] [INFO] [admin] [BrandController] Marka eklendi - {"brand_id": 1, "name": "Hiandco Collective"}
+[2026-02-24 17:11:58] [INFO] [admin] [CategoryController] Kategori eklendi - {"category_id": 1, "name": "Ev", "parent_id": null}
+[2026-02-24 17:12:06] [INFO] [admin] [CategoryController] Kategori eklendi - {"category_id": 2, "name": "Kadın", "parent_id": null}
+[2026-02-24 17:12:18] [INFO] [admin] [CategoryController] Kategori eklendi - {"category_id": 3, "name": "Mobilya", "parent_id": 1}
+[2026-02-24 17:12:28] [INFO] [admin] [CategoryController] Kategori eklendi - {"category_id": 4, "name": "Sehpa", "parent_id": 3}
+[2026-02-24 17:12:35] [INFO] [admin] [CategoryController] Kategori eklendi - {"category_id": 5, "name": "Aydınlatma", "parent_id": 1}
+[2026-02-24 17:12:40] [INFO] [admin] [CategoryController] Kategori eklendi - {"category_id": 6, "name": "Lambader", "parent_id": 5}
+[2026-02-24 17:12:52] [INFO] [admin] [CategoryController] Kategori eklendi - {"category_id": 7, "name": "Masa Lambası", "parent_id": 5}
+[2026-02-24 17:12:59] [INFO] [admin] [CategoryController] Kategori eklendi - {"category_id": 8, "name": "Orta Sehpa", "parent_id": 4}
+[2026-02-24 17:13:05] [INFO] [admin] [CategoryController] Kategori eklendi - {"category_id": 9, "name": "Yan Sehpa", "parent_id": 4}
+[2026-02-24 17:13:51] [INFO] [admin] [CategoryController] Kategori eklendi - {"category_id": 10, "name": "Cam Yan Sehpa", "parent_id": 9}
+[2026-02-24 17:39:32] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-24 17:39:43] [INFO] [admin] [LocationController] Lokasyon eklendi - {"location_id": 1, "name": "Hiandco Mağaza", "parent_id": null}
+[2026-02-24 17:40:08] [INFO] [admin] [LocationController] Lokasyon eklendi - {"location_id": 2, "name": "Cam Tarafı Reyonu", "parent_id": 1}
+[2026-02-24 17:41:39] [WARNING] [system] [AuthController] Başarısız giriş - kullanıcı bulunamadı - {"username": "admi"}
+[2026-02-24 17:41:41] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-24 17:43:16] [WARNING] [system] [AuthController] Başarısız giriş - kullanıcı bulunamadı - {"username": "ADMİN"}
+[2026-02-24 17:43:20] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-24 17:45:49] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-24 17:47:13] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-24 17:47:53] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-24 17:48:22] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-24 17:48:46] [INFO] [admin] [LocationController] Lokasyon eklendi - {"location_id": 3, "name": "4.Raf", "parent_id": 2}
+[2026-02-24 17:49:19] [INFO] [admin] [BrandController] Marka eklendi - {"brand_id": 1, "name": "Mobilya"}
+[2026-02-24 17:49:29] [INFO] [admin] [CategoryController] Kategori eklendi - {"category_id": 1, "name": "Mobilya", "parent_id": null}
+[2026-02-24 17:49:38] [INFO] [admin] [CategoryController] Kategori eklendi - {"category_id": 2, "name": "Sehpa", "parent_id": 1}
+[2026-02-24 17:49:43] [INFO] [admin] [CategoryController] Kategori eklendi - {"category_id": 3, "name": "Orta Sehpa", "parent_id": 2}
+[2026-02-24 17:49:47] [INFO] [admin] [CategoryController] Kategori eklendi - {"category_id": 4, "name": "Mutfak", "parent_id": null}
+[2026-02-24 17:50:27] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-24 18:14:45] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-24 18:15:19] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-24 18:15:37] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-24 18:23:43] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-24 18:26:07] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-24 18:28:39] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-24 18:32:55] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-24 18:33:23] [WARNING] [system] [AuthController] Başarısız giriş - kullanıcı bulunamadı - {"username": "ADMİN"}
+[2026-02-24 18:33:25] [WARNING] [system] [AuthController] Başarısız giriş - kullanıcı bulunamadı - {"username": "ADMİN"}
+[2026-02-24 18:33:28] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-24 18:40:22] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}

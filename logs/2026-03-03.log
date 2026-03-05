@@ -1,0 +1,22 @@
+[2026-03-03 11:02:32] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-03-03 11:02:43] [INFO] [admin] [BrandController] Marka eklendi - {"brand_id": 1, "name": "Hiandco Collective"}
+[2026-03-03 11:02:50] [INFO] [admin] [SupplierController] Tedarikçi eklendi - {"supplier_id": 1, "name": "Hiandco Collective"}
+[2026-03-03 11:03:00] [INFO] [admin] [CategoryController] Kategori eklendi - {"category_id": 1, "name": "Mobilya", "parent_id": null}
+[2026-03-03 11:03:04] [INFO] [admin] [CategoryController] Kategori eklendi - {"category_id": 2, "name": "Sehpa", "parent_id": 1}
+[2026-03-03 11:03:09] [INFO] [admin] [CategoryController] Kategori eklendi - {"category_id": 3, "name": "Cam Sehpa", "parent_id": 2}
+[2026-03-03 11:03:14] [INFO] [admin] [CategoryController] Kategori eklendi - {"category_id": 4, "name": "Yan Sehpa", "parent_id": 2}
+[2026-03-03 11:03:46] [INFO] [admin] [ProductController] Ürün eklendi - {"product_id": 1, "name": "Deneme Ürünü"}
+[2026-03-03 11:03:46] [INFO] [admin] [ProductController] Ürün resmi eklendi - {"product_id": 1, "variant_id": null, "image_path": "C:/Users/murat/Downloads/son-eklenenler.png"}
+[2026-03-03 11:03:47] [INFO] [admin] [ProductController] Ürün resmi eklendi - {"product_id": 1, "variant_id": null, "image_path": "C:/Users/murat/Downloads/563.jpg"}
+[2026-03-03 11:03:47] [INFO] [admin] [ProductController] Ürün resmi eklendi - {"product_id": 1, "variant_id": null, "image_path": "C:/Users/murat/Downloads/23.jpg"}
+[2026-03-03 11:03:47] [INFO] [admin] [ProductController] Ürün resmi eklendi - {"product_id": 1, "variant_id": null, "image_path": "C:/Users/murat/Downloads/325.jpg"}
+[2026-03-03 11:05:34] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-03-03 11:14:49] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-03-03 11:17:18] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-03-03 11:19:53] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-03-03 11:22:34] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-03-03 11:22:46] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-03-03 11:22:58] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-03-03 11:24:01] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-03-03 11:24:55] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-03-03 11:26:31] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}

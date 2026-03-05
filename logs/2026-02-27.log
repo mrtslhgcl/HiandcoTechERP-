@@ -1,0 +1,59 @@
+[2026-02-27 12:04:56] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 12:08:40] [INFO] [admin] [BrandController] Marka eklendi - {"brand_id": 2, "name": "Arçelik"}
+[2026-02-27 13:20:30] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 13:22:33] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 13:23:19] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 13:36:06] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 13:36:34] [INFO] [admin] [CategoryController] Kategori eklendi - {"category_id": 5, "name": "Sofra & Mutfak", "parent_id": 1}
+[2026-02-27 13:36:39] [INFO] [admin] [CategoryController] Kategori eklendi - {"category_id": 6, "name": "Bardak", "parent_id": 5}
+[2026-02-27 13:38:30] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 13:39:28] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 13:40:07] [WARNING] [system] [AuthController] Başarısız giriş - kullanıcı bulunamadı - {"username": "adm,n"}
+[2026-02-27 13:40:10] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 13:40:54] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 13:41:45] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 13:44:41] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 13:46:43] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 13:47:07] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 13:48:11] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 13:52:38] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 13:59:23] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 14:00:59] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 14:05:07] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 14:05:42] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 14:09:16] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 14:09:54] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 14:35:20] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 14:35:40] [INFO] [admin] [CategoryController] Kategori eklendi - {"category_id": 7, "name": "Yan Sehpa", "parent_id": 3}
+[2026-02-27 14:35:46] [INFO] [admin] [CategoryController] Kategori eklendi - {"category_id": 8, "name": "Seramik Sehpa", "parent_id": 3}
+[2026-02-27 14:45:20] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 14:49:41] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 14:50:00] [INFO] [admin] [ProductController] Ürün eklendi - {"product_id": 1, "name": "İlk Deneme Sehpamız"}
+[2026-02-27 14:53:23] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 14:54:26] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 14:55:42] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 14:57:21] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 14:58:28] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 15:00:28] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 15:02:52] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 15:03:55] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 15:05:52] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 15:06:08] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 15:08:26] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 15:09:18] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 15:13:22] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 15:14:13] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 15:16:31] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 15:17:39] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 15:18:12] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 15:26:34] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 15:38:20] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 15:40:35] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 15:43:41] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}
+[2026-02-27 15:44:49] [INFO] [admin] [ProductController] Ürün eklendi - {"product_id": 2, "name": "İkinci Deneme Ürünümüz"}
+[2026-02-27 15:45:24] [INFO] [admin] [BrandController] Marka eklendi - {"brand_id": 3, "name": "Denemee"}
+[2026-02-27 15:46:48] [INFO] [admin] [SupplierController] Tedarikçi eklendi - {"supplier_id": 2, "name": "5LampDesign"}
+[2026-02-27 15:47:08] [INFO] [admin] [VariantTypeController] Varyant değeri eklendi - {"value_id": 4, "type_id": 2, "value": "L"}
+[2026-02-27 15:47:12] [INFO] [admin] [VariantTypeController] Varyant değeri eklendi - {"value_id": 5, "type_id": 2, "value": "XS"}
+[2026-02-27 15:48:07] [INFO] [admin] [AuthController] Çıkış yapıldı
+[2026-02-27 15:48:18] [INFO] [admin] [AuthController] Giriş başarılı - {"user_id": 1, "employee": "System Admin"}

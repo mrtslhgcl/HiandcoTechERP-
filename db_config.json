@@ -1,0 +1,6 @@
+{
+  "mode": "hybrid",
+  "turso_url": "libsql://hiandco-collective-mrtslhgcl.aws-eu-west-1.turso.io",
+  "turso_auth_token": "eyJhbGciOiJFZERTQSIsInR5cCI6IkpXVCJ9.eyJhIjoicnciLCJpYXQiOjE3NzI3MjY2NjAsImlkIjoiMDE5Y2JlYmQtZmUwMS03OTQzLWJjNGMtNTFiNmIzOGVmMThiIiwicmlkIjoiYzYxMjBiZDMtZWE5Mi00MWE5LTgxMmQtMDVkZmE4YjhkN2E4In0.ULux535M5W4mHoeBQaFx2CCUh80rLrjWSNl_KUov_nvSI746SySrTOCa3gEPSNJ0Nt3keQDvIkdnIFOGUWf2AA",
+  "sync_interval_seconds": 300
+}
